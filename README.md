@@ -1,2 +1,1 @@
-new commit
-second commit
+new commit  second commit
